@@ -19,3 +19,14 @@ npm run lint
 ```
 npm test
 ```
+
+## Using the app
+
+```
+touch .env
+```
+
+```
+SLACK_TOKEN=###
+OPENAI_API_KEY=###
+```
